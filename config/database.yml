@@ -86,5 +86,5 @@ production:
   timeout: 5000
   username: "postgres"
   password: "postgres"
-  database: "cat_list_production"
+  database: "student_database_production"
   host:   "/cloudsql/cis655-synthesis:us-central1:cis655-synthesis"
